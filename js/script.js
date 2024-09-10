@@ -11,8 +11,8 @@ console.log(daysOfWeek);
 // question 3
 var addition = 3 + 4;
 var subtraction = 5 - 3;
-var multiplication = 5 * 4
-var division = 6 / 2 
+var multiplication = 5 * 4;
+var division = 6 / 2 ;
 
 
 // question 4
